@@ -3,7 +3,7 @@ Lista de Tarefas usando React.
 
 
 # Página Inicial:
-![image](https://github.com/user-attachments/assets/1bd998ab-5fb7-4c73-a768-f5c46bf23c6f)
+![image](https://github.com/user-attachments/assets/76a101d6-6575-4959-be28-f47a45fc6761)
 
 
 # Adicionando Itens:
