@@ -2,11 +2,11 @@
 Lista de Tarefas usando React. 
 
 
-#Página Inicial:
+#Página Inicial:#
 ![image](https://github.com/user-attachments/assets/1bd998ab-5fb7-4c73-a768-f5c46bf23c6f)
 
 
-#Adicionando Itens:
+#Adicionando Itens:#
 ![image](https://github.com/user-attachments/assets/0a16827d-3093-4253-ba28-4cd8c1a228b6)
 
 
