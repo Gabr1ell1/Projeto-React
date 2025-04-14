@@ -2,21 +2,21 @@
 Lista de Tarefas usando React. 
 
 
-#Página Inicial:#
+# Página Inicial:
 ![image](https://github.com/user-attachments/assets/1bd998ab-5fb7-4c73-a768-f5c46bf23c6f)
 
 
-#Adicionando Itens:#
+# Adicionando Itens:#
 ![image](https://github.com/user-attachments/assets/0a16827d-3093-4253-ba28-4cd8c1a228b6)
 
 
-#Removendo Itens:
+# Removendo Itens:
 ![image](https://github.com/user-attachments/assets/e4d4777e-1e5b-4f6c-bbe4-6b01c9aad8bf)
 
 
-#Editando Itens: 
+# Editando Itens: 
 ![image](https://github.com/user-attachments/assets/604cca41-c17a-4bd2-82b1-9eca92de7cd8)
 
 
-#Sobre Nós:
+# Sobre Nós:
 ![image](https://github.com/user-attachments/assets/cba54cce-a8c8-456a-89d0-27c54e2f6eb4)
